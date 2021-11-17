@@ -1,7 +1,9 @@
 # ESP8266_Temperature-Humidity
-
 WIFI Setting use Captive Portal
 https://user-images.githubusercontent.com/90883512/142221656-08856316-60a0-4d3c-af05-3bbf2d2306d7.mp4
+
+
+
 
 
 Show measurements and Using 'select * form wonaz' command, show dashboard
